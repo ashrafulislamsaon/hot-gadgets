@@ -1,0 +1,13 @@
+.logo{
+    width: 100px;
+}
+.carousel-indicators li{
+    background-color: darkgray;
+    border-radius: 10px !important;
+    width: 10px;
+    height: 5px;
+}
+.carousel-indicators .active{
+    background-color:goldenrod !important;
+    width: 20px;
+}
